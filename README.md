@@ -1,15 +1,8 @@
 # credit-card-bill-payment
 defaulters of the credit card bill payment
 
-<p align="center"> 
-  <img src="image/Email Logo.png" alt="Email Logo.png" width="80px" height="80px">
-</p>
 <h1 align="center"> Credit Card Default Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
-
-<p align="center"> 
-<img src="gif/spam detector.gif" alt="Animated gif pacman game" height="382px">
-</p>
 
 <p>I have developed a Credit Card detector predictor in Python using the Logistic Regression, Random Forest Classifier, KNN Classifier and Naive Bayes approach.</p>
 
