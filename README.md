@@ -1,14 +1,17 @@
 # credit-card-bill-payment
 defaulters of the credit card bill payment
 
+<p align="center"> 
+  <img src="image/Email Logo.png" alt="Email Logo.png" width="80px" height="80px">
+</p>
 <h1 align="center"> Credit Card Default Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 <p align="center"> 
-<img src="https://i.imgur.com/1RSZNsh.gif" alt="Animated gif pacman game" height="382px">
+<img src="gif/spam detector.gif" alt="Animated gif pacman game" height="382px">
 </p>
 
-<p>I have developed a credit card default classifier in Python using Random Forest Classifier.</p>
+<p>I have developed a Credit Card detector predictor in Python using the Logistic Regression, Random Forest Classifier, KNN Classifier and Naive Bayes approach.</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -101,19 +104,15 @@ Technology and tools wise this project covers,
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-< Lakshmi Narayana > | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast | MBA Graduate| Storyteller
+< Lakshmi Narayana > | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-ashishgupta45?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishgupta45)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Ashishgupta45?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashishgupta45)
-[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://ashishgupta45.medium.com)
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :book: Technologies Used::</h2>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-narayana-186a77183/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Narayan718)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/me/stories/public)
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)
-
-[<img target="_blank" src="https://user-images.githubusercontent.com/32620288/139657460-40ef4562-76bd-43f5-bbca-47b6bd29863e.png" width=100>](https://numpy.org)    [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" width=150>](https://pandas.pydata.org)  [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=150>](https://seaborn.pydata.org) [<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=170>](https://matplotlib.org)   [<img target="_blank" src="https://user-images.githubusercontent.com/32620288/137518674-f36c5ad3-3d64-4c7a-a07c-53f247750394.png" width=170>](https://colab.research.google.com/)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
