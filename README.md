@@ -1,6 +1,3 @@
-# credit-card-bill-payment
-defaulters of the credit card bill payment
-
 <h1 align="center"> Credit Card Default Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
