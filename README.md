@@ -1,6 +1,8 @@
 <h1 align="center"> Credit Card Default Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
+![image](https://miro.medium.com/max/1400/1*rThNv4Pa3SiK4f-bBd27eg.jpeg)
+
 <p>I have developed a Credit Card detector predictor in Python using the Logistic Regression, Random Forest Classifier, KNN Classifier and Naive Bayes approach.</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
